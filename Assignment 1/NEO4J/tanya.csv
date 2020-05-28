@@ -1,0 +1,20 @@
+PassengerId,Survived,Pclass,Last Name,Firstname,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+343,No,2,Collander, Mr. Erik Gustaf,male,28,0,0,248740,13,A,S
+76,No,3,Moen, Mr. Sigurd Hansen,male,25,0,0,348123,7.65,F G73,S
+641,No,3,Jensen, Mr. Hans Peder,male,20,0,0,350050,7.8542,C,S
+568,No,3,Palsson, Mrs. Nils (Alma Cornelia Berglund),female,29,0,4,349909,21.075,D,S
+672,No,1,Davidson, Mr. Thornton,male,31,1,0,F.C. 12750,52,B71,S
+105,No,3,Gustafsson, Mr. Anders Vilhelm,male,37,2,0,3101276,7.925,E,S
+576,No,3,Patchett, Mr. George,male,19,0,0,358585,14.5,F,S
+382,Yes,3,Nakid, Miss. Maria (Mary),female,1,0,2,2653,15.7417,G,C
+228,No,3,Lovell, Mr. John Hall (Henry),male,20.5,0,0,A/5 21173,7.25,K,S
+433,Yes,2,Louch, Mrs. Charles Alexander (Alice Adelaide Slow),female,42,1,0,SC/AH 3085,26,L,S
+135,No,2,Sobey, Mr. Samuel James Hayden,male,25,0,0,C.A. 29178,13,M,S
+294,No,3,Haas, Miss. Aloisia,female,24,0,0,349236,8.85,N,S
+755,Yes,2,Herman, Mrs. Samuel (Jane Laver),female,48,1,2,220845,65,O,S
+595,No,2,Chapman, Mr. John Henry,male,37,1,0,SC/AH 29037,26,P,S
+127,No,3,McMahon, Mr. Martin,male,56,0,0,370372,7.75,Q,Q
+434,No,3,Kallio, Mr. Nikolai Erland,male,17,0,0,STON/O 2. 3101274,7.125,R,S
+378,No,1,Widener, Mr. Harry Elkins,male,27,0,2,113503,211.5,C82,C
+533,No,3,Elias, Mr. Joseph Jr,male,17,1,1,2690,7.2292,S,C
+666,No,2,Hickman, Mr. Lewis,male,32,2,0,S.O.C. 14879,73.5,T,S
